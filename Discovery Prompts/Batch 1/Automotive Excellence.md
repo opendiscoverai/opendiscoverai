@@ -1,4 +1,4 @@
-### Part 1
+## Part 1
 
 1. **Torque vs. Rev Line** – How do Ferrari’s high-revving, naturally aspirated engines compare to Porsche’s torque-heavy turbocharged powerplants in delivering raw acceleration and engagement?  
 
@@ -40,7 +40,7 @@
 
 20. **Legacy vs. Future** – As performance moves toward electrification, will Ferrari’s hybrid hypercars or Porsche’s electric Taycan define the next generation of automotive passion?
 
-### Part 2
+## Part 2
 
 1. **"Run your fingers across the leather dashboard of a Rolls-Royce Phantom—what hidden details in its hand-stitched craftsmanship elevate it beyond mere luxury?"**  
 
@@ -82,7 +82,7 @@
 
 20. **"A Koenigsegg’s dihedral synchro-helix doors are more than just a showpiece. What hidden physics allow them to open so uniquely?"**
 
-### Part 3
+## Part 3
 
 1. **"Step into the cockpit of a Ferrari SF90 Stradale—how does its twin-turbo V8 and three electric motors redefine what it means to feel instant power?"**  
 
@@ -124,7 +124,7 @@
 
 20. **"As hybrid technology paves the way for full electrification, will hypercars lose their character, or are we entering the most exciting era of performance yet?"**
 
-### Part 4
+## Part 4
 
 1. **"Slide into the leather-wrapped embrace of a Bentley Continental GT, then strap into the carbon-fiber cockpit of a McLaren 720S. How do their interiors shape the driver’s mindset?"**  
 
@@ -166,7 +166,7 @@
 
 20. **"Imagine taking a Porsche Panamera Turbo GT and a Lamborghini Aventador SVJ on the same canyon road. Which car dominates, and which one leaves you feeling more connected to the road?"**
 
-### Part 5
+## Part 5
 
 1. **"Strap into the cockpit of the Mercedes-AMG ONE, its F1-derived V6 humming behind you. As you switch to Race+ mode, how does the car transform beneath you?"**  
 
